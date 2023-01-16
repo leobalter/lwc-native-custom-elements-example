@@ -1,0 +1,9 @@
+
+@import './variables.css';
+@import './components.css';
+
+:host {
+  background-color: aliceblue;
+  display: block;
+  padding: 10px;
+}
